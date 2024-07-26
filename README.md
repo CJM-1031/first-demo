@@ -7,3 +7,19 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 
 123123
+## 复制地址 https://github.com/CJM-1031/first-demo.git
+## 下载到本地 
+## git clone https://github.com/CJM-1031/first-demo.git
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
